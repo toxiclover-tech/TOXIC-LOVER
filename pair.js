@@ -63,7 +63,7 @@ router.get('/', async (req, res) => {
 
 ❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
 
-*CRISS-XBOT SESSION CONNECTED*
+*TOXIC-LOVER-MD SESSION CONNECTED*
 
 ❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
 `
